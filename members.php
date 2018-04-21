@@ -50,7 +50,7 @@ require_once('connect.php');
 	
 }else{
 
-  echo "You must be logged in.";
+  echo "You must be signed in.";
 }
 
 ?>
