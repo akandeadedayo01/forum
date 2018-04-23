@@ -7,7 +7,7 @@ if (@$_SESSION['username']) {
 ?>
 
 
- <center><a href="index.php">Homepage</a>  | <a href="account.php"> My account</a> | <a href="members.php"> Members </a> |
+ <center><a href="index.php">Home</a>  | <a href="account.php"> My account</a> | <a href="members.php">Members </a> |
 
  	<?php 
      
